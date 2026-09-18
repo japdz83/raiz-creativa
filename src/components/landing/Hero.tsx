@@ -4,7 +4,7 @@ import Logo from "./Logo";
 export default function Hero() {
 	return (
 		<section className='relative overflow-hidden bg-background'>
-			<div className='pointer-events-none absolute right-0 top-0 hidden h-[420px] w-[55%] rounded-bl-[50%] rounded-br-[10%] rounded-tl-[45%] bg-cream lg:block' />
+			<div className='pointer-events-none absolute right-0 top-0 hidden h-[420px] w-[55%] rounded-bl-[50%] rounded-br-[10%] rounded-tl-[45%] lg:block' />
 			<div className='mx-auto grid max-w-6xl grid-cols-1 items-center gap-8 px-6 pb-0 pt-10 lg:grid-cols-[1fr_0.95fr] lg:gap-4 lg:pt-14'>
 				<div className='relative z-10 max-w-xl'>
 					<Logo className='h-12 lg:h-14' />

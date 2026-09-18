@@ -1,5 +1,5 @@
 import { cn } from "@/lib/utils";
-import LOGO from "../../assets/LOGO-hero.png";
+import LOGO from "../../assets/LOGO-footer.png";
 
 export default function Logo({
 	className,

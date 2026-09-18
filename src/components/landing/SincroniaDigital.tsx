@@ -1,5 +1,5 @@
 import { MessagesSquare, Bot, Users } from "lucide-react";
-import sincronia from "@/assets/sincronia.jpg";
+import sincronia from "@/assets/sincronia.png";
 
 const results = [
 	{

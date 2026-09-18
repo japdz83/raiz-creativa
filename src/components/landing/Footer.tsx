@@ -1,5 +1,5 @@
 import { Mail } from "lucide-react";
-import Logo from "./Logo";
+import Logo from "./LogoFooter";
 
 export default function Footer() {
 	return (
