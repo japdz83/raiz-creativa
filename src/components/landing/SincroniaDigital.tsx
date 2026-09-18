@@ -60,7 +60,7 @@ export default function SincroniaDigital() {
 					</div>
 				</div>
 
-				<h3 className='mt-14 text-center text-base font-bold text-cocoa'>
+				<h3 className='mt-14 text-center text-base font-bold text-cocoa sm:text-3xl lg:text-4xl'>
 					Lo que logramos por ti:
 				</h3>
 
